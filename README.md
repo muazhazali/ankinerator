@@ -1,0 +1,2 @@
+# ankinerator
+anki flashcards generator
